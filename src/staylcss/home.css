@@ -1,7 +1,6 @@
 .home {
   width: 100%;
   max-width: 800px;
-  /* margin-left: 50px; */
 }
 .home-list {
   width: 100%;
@@ -46,7 +45,6 @@
 }
 .user {
   width: 100%;
-  /* max-width: 400px; */
   height: 50px;
   border-radius: 15px 15px 0px 0px;
   border: 1px solid #d0d0d0;
@@ -54,7 +52,6 @@
 }
 .userTop-list {
   width: 100%;
-  /* max-width: 400px; */
   height: 250px;
 
   border-top: none;
@@ -62,7 +59,6 @@
 }
 .user-item {
   width: 100%;
-  /* max-width: 400px; */
   height: 50px;
   border: 1px solid #d0d0d0;
   background: white;

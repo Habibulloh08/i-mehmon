@@ -1,0 +1,38 @@
+.live {
+  width: 100%;
+  /* max-width: 440px; */
+  height: 245px;
+  border-radius: 15px;
+  border: 1px solid #d0d0d0;
+  margin-bottom: 20px;
+}
+.live-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  border-bottom: 1px solid #d0d0d0;
+}
+.live-list {
+  height: 195px;
+  border: none;
+  padding: 20px;
+}
+.live-list li {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  color: #909090;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.live-list li span {
+  color: #dc1470;
+  text-align: right;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}

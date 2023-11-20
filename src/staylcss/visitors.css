@@ -30,8 +30,6 @@
   border: 1px solid #d0d0d0;
   display: grid;
   grid-template-columns: 120px 300px 250px 100px 300px 100px;
-  /* display: flex;
-  justify-content: space-between; */
   justify-content: center;
   align-items: center;
   padding-left: 15px;
